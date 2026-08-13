@@ -1,0 +1,1060 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pacman",
+          "description": "& Pacman-Game",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-07T13:15:20Z",
+            "owner": "mumuy",
+            "repo": "pacman",
+            "stars": 1637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jump-n-bump",
+          "description": "HTML5 port of the open source DOS classic by Brainchild Design: local multiplayer platfomer game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-16T16:44:51Z",
+            "owner": "ennorehling",
+            "repo": "jump-n-bump",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Arcade"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Untrusted —or— the Continuing Adventures of Dr. Eval",
+          "description": "Meta-JavaScript Adventure Game wherein you must edit and re-execute the very JavaScript running the game in your browser to save Dr. Eval from this dark and confusing reality",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-31T02:26:17Z",
+            "owner": "AlexNisnevich",
+            "repo": "untrusted",
+            "stars": 4656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blitz Tactics",
+          "description": "fast-paced chess puzzles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-03-25T21:46:14Z",
+            "owner": "linrock",
+            "repo": "blitz-tactics",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2048",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-11T16:50:12Z",
+            "owner": "gd4Ark",
+            "repo": "2048",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "Puzzle"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UNO",
+          "description": "The famous UNO card game with online multiplayer support!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-16T16:29:11Z",
+            "owner": "guilhermebkel",
+            "repo": "uno-game",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Developer portfolio",
+          "description": "Developer portfolio as an interactive 2D game",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-12T21:30:23Z",
+            "owner": "JSLegendDev",
+            "repo": "2d-portfolio-kaboom",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemoryGame.js",
+          "description": "A customizable memory game",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-22T07:00:14Z",
+            "owner": "Lucas-C",
+            "repo": "MemoryGame.js",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Uncategorized"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PixiJS",
+          "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T12:44:59Z",
+            "owner": "pixijs",
+            "repo": "pixijs",
+            "stars": 48006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phaser",
+          "description": "Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T14:33:40Z",
+            "owner": "phaserjs",
+            "repo": "phaser",
+            "stars": 40133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GDevelop",
+          "description": "An open-source, cross-platform game engine designed to be used by everyone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T15:52:50Z",
+            "owner": "4ian",
+            "repo": "GDevelop",
+            "stars": 25587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cocos2d-x",
+          "description": "A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-09T03:36:03Z",
+            "owner": "cocos2d",
+            "repo": "cocos2d-x",
+            "stars": 19143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melonJS",
+          "description": "A fresh & lightweight HTML5 game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T23:37:01Z",
+            "owner": "melonjs",
+            "repo": "melonJS",
+            "stars": 6355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Impact",
+          "description": "A JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-07T13:23:50Z",
+            "owner": "phoboslab",
+            "repo": "Impact",
+            "stars": 2122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KAPLAY",
+          "description": "Fork of legacy Kaboom, that simplifies and accelerates game development by providing an intuitive API and by focusing on creativity rather than complexity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T19:14:23Z",
+            "owner": "kaplayjs",
+            "repo": "kaplay",
+            "stars": 1768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLACKSMITH 2D",
+          "description": "Black is a highly optimized 2D framework for web, mobile games, and playable ads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-08T13:13:15Z",
+            "owner": "MassiveHeights",
+            "repo": "Black",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Craters.js",
+          "description": "A Compact Game Engine that helps you build fast, modern HTML5 Games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T17:52:52Z",
+            "owner": "john-swana",
+            "repo": "craters",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "2D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "three.js",
+          "description": "JavaScript 3D library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:21:49Z",
+            "owner": "mrdoob",
+            "repo": "three.js",
+            "stars": 114477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Babylonjs",
+          "description": "A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:34:44Z",
+            "owner": "BabylonJS",
+            "repo": "Babylon.js",
+            "stars": 25920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlayCanvas",
+          "description": "Fast and lightweight WebGL game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:01:52Z",
+            "owner": "playcanvas",
+            "repo": "engine",
+            "stars": 16478
+          }
+        }
+      ],
+      "title": "3D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "big.js",
+          "description": "A small, fast JavaScript library for arbitrary-precision decimal arithmetic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-22T19:47:27Z",
+            "owner": "MikeMcl",
+            "repo": "big.js",
+            "stars": 5194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CindyJS",
+          "description": "A JavaScript framework for interactive (mathematical) content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-19T15:10:21Z",
+            "owner": "CindyJS",
+            "repo": "CindyJS",
+            "stars": 709
+          }
+        }
+      ],
+      "title": "Math"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simplify.js",
+          "description": "A high-performance JavaScript polyline simplification library by Vladimir Agafonkin, extracted from Leaflet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-14T20:13:23Z",
+            "owner": "mourner",
+            "repo": "simplify-js",
+            "stars": 2392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyStar.js",
+          "description": "An asynchronous A* pathfinding API written in Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-23T23:07:02Z",
+            "owner": "prettymuchbryce",
+            "repo": "easystarjs",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAT.js",
+          "description": "A simple JavaScript library for performing 2D collision detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-05T03:46:46Z",
+            "owner": "jriecken",
+            "repo": "sat-js",
+            "stars": 794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZzFX",
+          "description": "A Tiny JavaScript Sound Effect Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T20:50:35Z",
+            "owner": "KilledByAPixel",
+            "repo": "ZzFX",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexi",
+          "description": "A fun and easy way to make HTML5 games or any other kind interactive media using pure JavaScript code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-23T22:12:22Z",
+            "owner": "kittykatattack",
+            "repo": "hexi",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minivents",
+          "description": "Tiny eventing for javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-29T10:10:04Z",
+            "owner": "allouis",
+            "repo": "minivents",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sound.js",
+          "description": "A micro-library to load, play and generate sound effects and music for games and interactive applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-25T20:23:17Z",
+            "owner": "kittykatattack",
+            "repo": "sound.js",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animatable",
+          "description": "Animate once, use Everywhere! 💫",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-22T21:19:09Z",
+            "owner": "proyecto26",
+            "repo": "animatable-component",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IonPhaser",
+          "description": "A web component to use Phaser Framework with Angular, React, Vue, etc 🎮",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-22T20:47:21Z",
+            "owner": "proyecto26",
+            "repo": "ion-phaser",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js13k-2d",
+          "description": "A 2kb webgl 2d sprite renderer, designed for Js13kGames.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-12T19:37:48Z",
+            "owner": "kutuluk",
+            "repo": "js13k-2d",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "Micro-libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "p5.js",
+          "description": "A client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T08:50:03Z",
+            "owner": "processing",
+            "repo": "p5.js",
+            "stars": 23868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper.js",
+          "description": "The Swiss Army Knife of Vector Graphics Scripting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-23T00:58:54Z",
+            "owner": "paperjs",
+            "repo": "paper.js",
+            "stars": 15064
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Matter.js",
+          "description": "A JavaScript 2D rigid body physics engine for the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-17T14:14:36Z",
+            "owner": "liabru",
+            "repo": "matter-js",
+            "stars": 18360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planck.js",
+          "description": "2D JavaScript Physics Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-07T12:29:53Z",
+            "owner": "piqnt",
+            "repo": "planck.js",
+            "stars": 5265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p2.js",
+          "description": "2D rigid body physics engine written in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-09T03:13:18Z",
+            "owner": "schteppe",
+            "repo": "p2.js",
+            "stars": 2692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "box2d.ts",
+          "description": "A TypeScript port of Box2D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-29T21:12:14Z",
+            "owner": "flyover",
+            "repo": "box2d.ts",
+            "stars": 423
+          }
+        }
+      ],
+      "title": "Physics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SoundBox",
+          "description": "A tool for composing synthetic music, in your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-08-31T18:37:05Z",
+            "owner": "mbitsnbites",
+            "repo": "soundbox",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyMusic",
+          "description": "A simple, lightweight music synth/sequencer in JavaScript using the Web Audio API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-14T18:06:24Z",
+            "owner": "kevincennis",
+            "repo": "TinyMusic",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonant-X",
+          "description": "A very small JavaScript synthesizer library, suitable for small JavaScript demos or video games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-18T05:44:39Z",
+            "owner": "nicolas-van",
+            "repo": "sonant-x",
+            "stars": 249
+          }
+        }
+      ],
+      "title": "Audio Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tiled Map Editor",
+          "description": "A flexible level editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T20:59:21Z",
+            "owner": "mapeditor",
+            "repo": "tiled",
+            "stars": 12815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piskel",
+          "description": "A free online editor for animated sprites & pixel art.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-28T16:40:18Z",
+            "owner": "piskelapp",
+            "repo": "piskel",
+            "stars": 12697
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "webpack",
+          "description": "Bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:31:13Z",
+            "owner": "webpack",
+            "repo": "webpack",
+            "stars": 65985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gulp",
+          "description": "A toolkit to automate & enhance your workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-09T06:30:13Z",
+            "owner": "gulpjs",
+            "repo": "gulp",
+            "stars": 32954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rollup",
+          "description": "A module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T06:35:43Z",
+            "owner": "rollup",
+            "repo": "rollup",
+            "stars": 26305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UglifyJS",
+          "description": "A JavaScript parser, minifier, compressor and beautifier toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-22T08:11:38Z",
+            "owner": "mishoo",
+            "repo": "UglifyJS",
+            "stars": 13381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grunt",
+          "description": "The JavaScript Task Runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T17:50:15Z",
+            "owner": "gruntjs",
+            "repo": "grunt",
+            "stars": 12243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brunch",
+          "description": "Fast front-end web app build tool with simple declarative config and seamless incremental compilation for rapid development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-19T14:13:39Z",
+            "owner": "brunch",
+            "repo": "brunch",
+            "stars": 6758
+          }
+        }
+      ],
+      "title": "Minification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Electron",
+          "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:48:00Z",
+            "owner": "electron",
+            "repo": "electron",
+            "stars": 122481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NW.js",
+          "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T16:32:49Z",
+            "owner": "nwjs",
+            "repo": "nw.js",
+            "stars": 41183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capacitor",
+          "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:05:57Z",
+            "owner": "ionic-team",
+            "repo": "capacitor",
+            "stars": 16298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cordova",
+          "description": "Mobile apps with HTML, CSS & JS. Target multiple platforms with one code base.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-19T03:45:48Z",
+            "owner": "apache",
+            "repo": "cordova",
+            "stars": 707
+          }
+        }
+      ],
+      "title": "Build"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Babel",
+          "description": "The compiler for writing next generation JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T10:35:07Z",
+            "owner": "babel",
+            "repo": "babel",
+            "stars": 43978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emscripten: An LLVM-to-Web Compiler",
+          "description": "Compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:31:04Z",
+            "owner": "emscripten-core",
+            "repo": "emscripten",
+            "stars": 27568
+          }
+        }
+      ],
+      "title": "Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "js13kserver",
+          "description": "js13kGames Server category files and rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-02T13:24:39Z",
+            "owner": "js13kGames",
+            "repo": "js13kserver",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS13K A-Frame Boilerplate",
+          "description": "An A-Frame boilerplate for the js13k competition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-15T03:15:50Z",
+            "owner": "mguinea",
+            "repo": "js13k-aframe-boilerplate",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phaser 3 TypeScript Project Template",
+          "description": "A quick-start project template that uses Phaser 3, TypeScript and Rollup for bundling.",
+          "children": []
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Immersive",
+          "description": "Immersive Three.js Workshop at Gray Area.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-10T17:45:53Z",
+            "owner": "marpi",
+            "repo": "immersive",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VR Workshop",
+          "description": "VR Workshop at Gray Area Festival.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-08-10T17:43:48Z",
+            "owner": "marpi",
+            "repo": "vr",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phaser CE Workshop using ES6",
+          "description": "Isometric worlds and Real Time games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-27T16:28:30Z",
+            "owner": "proyecto26",
+            "repo": "Phaser-Workshop",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Workshops"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Games on GitHub",
+          "description": "A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-13T20:06:46Z",
+            "owner": "leereilly",
+            "repo": "games",
+            "stars": 24932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magic Tools",
+          "description": "A list of Game Development resources to make magic happen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-10T17:51:51Z",
+            "owner": "ellisonleao",
+            "repo": "magictools",
+            "stars": 17117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsGameWiki",
+          "description": "A collection of good links for gaming with javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-08T16:09:17Z",
+            "owner": "DaRaFF",
+            "repo": "jsgamewiki",
+            "stars": 1222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-phaser",
+          "description": "A curated list of awesome Phaser libraries, resources and shiny things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-14T20:40:19Z",
+            "owner": "Raiper34",
+            "repo": "awesome-phaser",
+            "stars": 517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome PlayCanvas",
+          "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T16:23:41Z",
+            "owner": "playcanvas",
+            "repo": "awesome-playcanvas",
+            "stars": 477
+          }
+        }
+      ],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "Please do contribute! Issues and pull requests are welcome. This awesome list exists thanks to all the people who contribute. [Contribute].\n",
+      "items": [],
+      "title": "Contributors ✨"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History 🌟"
+    },
+    {
+      "description": "This project is free and open source. Sponsors help keep it maintained and growing.\nBecome a Sponsor | Sponsorship Program",
+      "items": [],
+      "title": "Sponsors 💜"
+    },
+    {
+      "description": "When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.\nContributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated ❤️.\nYou can learn more about how you can contribute to this project in the contribution guide.",
+      "items": [],
+      "title": "Contribution 🤝"
+    },
+    {
+      "description": "Made with ❤️ by Proyecto 26 - Changing the world with small contributions.\nOne hand can accomplish great things, but many can take you into space and beyond! 🌌\nTogether we do more, together we are more ❤️",
+      "items": [],
+      "title": "Happy coding 💯"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:14.505Z",
+    "original_repository": "proyecto26/awesome-jsgames",
+    "original_repository_sha": "17dfbb7935be6e0c958e07dfb96018a3be1bd6bc",
+    "enhanced_repository": "enhansome/enhansome-jsgames",
+    "enhanced_repository_description": null,
+    "title": "Awesome jsgames with stars"
+  }
+}
