@@ -94,7 +94,7 @@
 
 ### Strategy
 
-* [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) ⭐ 1,867 | 🐛 463 | 🌐 TypeScript | 📅 2026-08-11 - Match based eSport where players battle themselves by materializing and controling a squad of carefully selected creatures, each having unique stats and abilities. Master your beasts!
+* [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) ⭐ 1,868 | 🐛 463 | 🌐 TypeScript | 📅 2026-08-11 - Match based eSport where players battle themselves by materializing and controling a squad of carefully selected creatures, each having unique stats and abilities. Master your beasts!
 * [Elematter](https://js13kgames.com/entries/elematter) - Elematter is a tower defense game based on the four elements: Earth, Water, Air and Fire.
 
 ### Virtual Reality
@@ -130,21 +130,21 @@
 
 #### 2D
 
-* [PixiJS](https://github.com/pixijs/pixi.js) ⭐ 48,030 | 🐛 355 | 🌐 TypeScript | 📅 2026-08-18 - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-* [Phaser](https://github.com/photonstorm/phaser) ⭐ 40,167 | 🐛 130 | 🌐 JavaScript | 📅 2026-07-09 - Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.
-* [GDevelop](https://github.com/4ian/GDevelop) ⭐ 25,757 | 🐛 624 | 🌐 JavaScript | 📅 2026-08-18 - An open-source, cross-platform game engine designed to be used by everyone.
-* [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,148 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
-* [melonJS](https://github.com/melonjs/melonjs) ⭐ 6,362 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-18 - A fresh & lightweight HTML5 game engine.
-* [Impact](https://github.com/phoboslab/impact) ⭐ 2,122 | 🐛 31 | 🌐 JavaScript | 📅 2024-11-07 - A JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
-* [KAPLAY](https://github.com/kaplayjs/kaplay) ⭐ 1,775 | 🐛 92 | 🌐 TypeScript | 📅 2026-08-19 - Fork of legacy [Kaboom](https://github.com/replit/kaboom) ⚠️ Archived, that simplifies and accelerates game development by providing an intuitive API and by focusing on creativity rather than complexity.
+* [PixiJS](https://github.com/pixijs/pixi.js) ⭐ 48,033 | 🐛 355 | 🌐 TypeScript | 📅 2026-08-18 - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+* [Phaser](https://github.com/photonstorm/phaser) ⭐ 40,169 | 🐛 130 | 🌐 JavaScript | 📅 2026-07-09 - Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.
+* [GDevelop](https://github.com/4ian/GDevelop) ⭐ 25,772 | 🐛 624 | 🌐 JavaScript | 📅 2026-08-19 - An open-source, cross-platform game engine designed to be used by everyone.
+* [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,146 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
+* [melonJS](https://github.com/melonjs/melonjs) ⭐ 6,365 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-18 - A fresh & lightweight HTML5 game engine.
+* [Impact](https://github.com/phoboslab/impact) ⭐ 2,121 | 🐛 31 | 🌐 JavaScript | 📅 2024-11-07 - A JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
+* [KAPLAY](https://github.com/kaplayjs/kaplay) ⭐ 1,775 | 🐛 91 | 🌐 TypeScript | 📅 2026-08-19 - Fork of legacy [Kaboom](https://github.com/replit/kaboom) ⚠️ Archived, that simplifies and accelerates game development by providing an intuitive API and by focusing on creativity rather than complexity.
 * [BLACKSMITH 2D](https://github.com/MassiveHeights/Black) ⭐ 211 | 🐛 5 | 🌐 JavaScript | 📅 2023-08-08 - Black is a highly optimized 2D framework for web, mobile games, and playable ads.
 * [Craters.js](https://github.com/swashvirus/craters.js) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-05 - A Compact Game Engine that helps you build fast, modern HTML5 Games.
 
 #### 3D
 
-* [three.js](https://github.com/mrdoob/three.js) ⭐ 114,598 | 🐛 375 | 🌐 JavaScript | 📅 2026-08-18 - JavaScript 3D library.
-* [Babylonjs](https://github.com/BabylonJS/Babylon.js) ⭐ 25,944 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-14 - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-* [PlayCanvas](https://github.com/playcanvas/engine) ⭐ 16,523 | 🐛 537 | 🌐 JavaScript | 📅 2026-08-19 - Fast and lightweight WebGL game engine.
+* [three.js](https://github.com/mrdoob/three.js) ⭐ 114,609 | 🐛 371 | 🌐 JavaScript | 📅 2026-08-19 - JavaScript 3D library.
+* [Babylonjs](https://github.com/BabylonJS/Babylon.js) ⭐ 25,946 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-14 - A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+* [PlayCanvas](https://github.com/playcanvas/engine) ⭐ 16,524 | 🐛 534 | 🌐 JavaScript | 📅 2026-08-19 - Fast and lightweight WebGL game engine.
 
 ### Math
 
@@ -171,7 +171,7 @@
 
 ### Graphics
 
-* [p5.js](https://github.com/processing/p5.js) ⭐ 23,883 | 🐛 510 | 🌐 JavaScript | 📅 2026-08-16 - A client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
+* [p5.js](https://github.com/processing/p5.js) ⭐ 23,882 | 🐛 510 | 🌐 JavaScript | 📅 2026-08-16 - A client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
 * [Paper.js](https://github.com/paperjs/paper.js) ⭐ 15,064 | 🐛 429 | 🌐 JavaScript | 📅 2024-07-23 - The Swiss Army Knife of Vector Graphics Scripting.
 
 ### Physics
@@ -213,8 +213,8 @@
 
 ### Editors
 
-* [Tiled Map Editor](https://github.com/bjorn/tiled) ⭐ 12,828 | 🐛 792 | 🌐 C++ | 📅 2026-08-04 - A flexible level editor.
-* [Piskel](https://github.com/piskelapp/piskel) ⭐ 12,712 | 🐛 102 | 🌐 JavaScript | 📅 2026-06-28 - A free online editor for animated sprites & pixel art.
+* [Tiled Map Editor](https://github.com/bjorn/tiled) ⭐ 12,828 | 🐛 793 | 🌐 C++ | 📅 2026-08-19 - A flexible level editor.
+* [Piskel](https://github.com/piskelapp/piskel) ⭐ 12,714 | 🐛 102 | 🌐 JavaScript | 📅 2026-06-28 - A free online editor for animated sprites & pixel art.
 * [Phaser Editor 2D](https://phasereditor2d.com) - A web-based IDEfor HTML5 game development.
 * [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
 * [Sleditor](https://sleditor.com/) - A web-based editor for creating and testing high-performance graphics and audio scripts in a web browser.
@@ -226,24 +226,24 @@
 
 ### Minification
 
-* [webpack](https://github.com/webpack/webpack) ⭐ 65,968 | 🐛 139 | 🌐 JavaScript | 📅 2026-08-18 - Bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
-* [Gulp](https://github.com/gulpjs/gulp) ⭐ 32,950 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09 - A toolkit to automate & enhance your workflow.
-* [Rollup](https://github.com/rollup/rollup) ⭐ 26,304 | 🐛 604 | 🌐 JavaScript | 📅 2026-08-16 - A module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
-* [UglifyJS](https://github.com/mishoo/UglifyJS) ⭐ 13,381 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 - A JavaScript parser, minifier, compressor and beautifier toolkit.
+* [webpack](https://github.com/webpack/webpack) ⭐ 65,971 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-19 - Bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
+* [Gulp](https://github.com/gulpjs/gulp) ⭐ 32,951 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09 - A toolkit to automate & enhance your workflow.
+* [Rollup](https://github.com/rollup/rollup) ⭐ 26,306 | 🐛 604 | 🌐 JavaScript | 📅 2026-08-16 - A module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
+* [UglifyJS](https://github.com/mishoo/UglifyJS) ⭐ 13,380 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 - A JavaScript parser, minifier, compressor and beautifier toolkit.
 * [Grunt](https://github.com/gruntjs/grunt) ⭐ 12,241 | 🐛 156 | 🌐 JavaScript | 📅 2026-08-14 - The JavaScript Task Runner.
 * [Brunch](https://github.com/brunch/brunch) ⭐ 6,758 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-19 - Fast front-end web app build tool with simple declarative config and seamless incremental compilation for rapid development.
 
 ### Build
 
-* [Electron](https://github.com/electron/electron) ⭐ 122,564 | 🐛 858 | 🌐 C++ | 📅 2026-08-19 - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-* [NW.js](https://github.com/nwjs/nw.js) ⭐ 41,162 | 🐛 901 | 🌐 JavaScript | 📅 2026-08-18 - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 16,344 | 🐛 119 | 🌐 TypeScript | 📅 2026-08-18 - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
+* [Electron](https://github.com/electron/electron) ⭐ 122,573 | 🐛 831 | 🌐 C++ | 📅 2026-08-19 - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+* [NW.js](https://github.com/nwjs/nw.js) ⭐ 41,161 | 🐛 901 | 🌐 JavaScript | 📅 2026-08-19 - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 16,346 | 🐛 120 | 🌐 TypeScript | 📅 2026-08-18 - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
 * [Cordova](https://github.com/apache/cordova) ⭐ 707 | 🐛 40 | 📅 2026-05-19 - Mobile apps with HTML, CSS & JS. Target multiple platforms with one code base.
 
 ### Compilers
 
-* [Babel](https://github.com/babel/babel) ⭐ 43,984 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-16 - The compiler for writing next generation JavaScript.
-* [Emscripten: An LLVM-to-Web Compiler](https://github.com/emscripten-core/emscripten) ⭐ 27,571 | 🐛 2,470 | 🌐 C++ | 📅 2026-08-18 - Compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.
+* [Babel](https://github.com/babel/babel) ⭐ 43,987 | 🐛 771 | 🌐 TypeScript | 📅 2026-08-16 - The compiler for writing next generation JavaScript.
+* [Emscripten: An LLVM-to-Web Compiler](https://github.com/emscripten-core/emscripten) ⭐ 27,571 | 🐛 2,471 | 🌐 C++ | 📅 2026-08-19 - Compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.
 
 ### Templates
 
@@ -280,7 +280,7 @@
 ### Courses
 
 * [Codecademy](https://www.codecademy.com/catalog/language/javascript) - JavaScript Courses & Tutorials.
-* [CodeCombat: Learn to Code by Playing a Game](https://github.com/codecombat/codecombat) ⭐ 8,546 | 🐛 415 | 🌐 JavaScript | 📅 2026-08-18 - Learn programming with a multiplayer live coding strategy game for beginners.
+* [CodeCombat: Learn to Code by Playing a Game](https://github.com/codecombat/codecombat) ⭐ 8,546 | 🐛 415 | 🌐 JavaScript | 📅 2026-08-19 - Learn programming with a multiplayer live coding strategy game for beginners.
 * [Codewars](https://www.codewars.com) - Achieve mastery through challenge.
 
 ### Tutorials
@@ -325,7 +325,7 @@
 
 ### Testing
 
-* [stats.js](https://github.com/mrdoob/stats.js) ⭐ 9,148 | 🐛 22 | 🌐 JavaScript | 📅 2024-10-11 - JavaScript Performance Monitor.
+* [stats.js](https://github.com/mrdoob/stats.js) ⭐ 9,149 | 🐛 22 | 🌐 JavaScript | 📅 2024-10-11 - JavaScript Performance Monitor.
 * [Leshy SpriteSheet Animator](https://www.leshylabs.com/apps/spriteSheetAnimator) - Online Sprite Sheet Animation Utility.
 
 ### Security
@@ -335,7 +335,7 @@
 ### Other Awesome Lists
 
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,149 | 🐛 12 | 🌐 Markdown | 📅 2026-08-17 - A list of Game Development resources to make magic happen.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,150 | 🐛 12 | 🌐 Markdown | 📅 2026-08-17 - A list of Game Development resources to make magic happen.
 * [jsGameWiki](https://github.com/DaRaFF/jsgamewiki) ⭐ 1,222 | 🐛 2 | 📅 2020-06-08 - A collection of good links for gaming with javascript.
 * [awesome-phaser](https://github.com/Raiper34/awesome-phaser) ⭐ 516 | 🐛 4 | 📅 2025-04-14 - A curated list of awesome Phaser libraries, resources and shiny things.
 * [Awesome PlayCanvas](https://github.com/playcanvas/awesome-playcanvas) ⭐ 479 | 🐛 0 | 📅 2026-08-04 - A curated list of awesome PlayCanvas assets, resources, and more.

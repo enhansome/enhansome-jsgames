@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48824336,
             "language": "JavaScript",
             "last_commit": "2026-05-07T13:15:20Z",
             "owner": "mumuy",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5433103,
             "language": "JavaScript",
             "last_commit": "2020-02-16T16:44:51Z",
             "owner": "ennorehling",
@@ -35,7 +37,7 @@
       "title": "Arcade"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8663885,
             "language": "JavaScript",
             "last_commit": "2025-05-31T02:26:17Z",
             "owner": "AlexNisnevich",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69437085,
             "language": "Ruby",
             "last_commit": "2026-03-25T21:46:14Z",
             "owner": "linrock",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146147919,
             "language": "JavaScript",
             "last_commit": "2023-05-11T16:50:12Z",
             "owner": "gd4Ark",
@@ -83,7 +88,7 @@
       "title": "Puzzle"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275399782,
             "language": "TypeScript",
             "last_commit": "2024-04-16T16:29:11Z",
             "owner": "guilhermebkel",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 758769946,
             "language": "JavaScript",
             "last_commit": "2024-11-12T21:30:23Z",
             "owner": "JSLegendDev",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60523535,
             "language": "JavaScript",
             "last_commit": "2016-06-22T07:00:14Z",
             "owner": "Lucas-C",
@@ -131,192 +139,207 @@
       "title": "Uncategorized"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PixiJS",
+              "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7741856,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T17:36:39Z",
+                "owner": "pixijs",
+                "repo": "pixijs",
+                "stars": 48033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Phaser",
+              "description": "Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9393759,
+                "language": "JavaScript",
+                "last_commit": "2026-07-09T14:33:40Z",
+                "owner": "phaserjs",
+                "repo": "phaser",
+                "stars": 40169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GDevelop",
+              "description": "An open-source, cross-platform game engine designed to be used by everyone.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21331090,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T12:11:46Z",
+                "owner": "4ian",
+                "repo": "GDevelop",
+                "stars": 25772
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cocos2d-x",
+              "description": "A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1093228,
+                "language": "C++",
+                "last_commit": "2025-05-09T03:36:03Z",
+                "owner": "cocos2d",
+                "repo": "cocos2d-x",
+                "stars": 19146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "melonJS",
+              "description": "A fresh & lightweight HTML5 game engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1597789,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T23:54:43Z",
+                "owner": "melonjs",
+                "repo": "melonJS",
+                "stars": 6365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Impact",
+              "description": "A JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131972774,
+                "language": "JavaScript",
+                "last_commit": "2024-11-07T13:23:50Z",
+                "owner": "phoboslab",
+                "repo": "Impact",
+                "stars": 2121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KAPLAY",
+              "description": "Fork of legacy Kaboom, that simplifies and accelerates game development by providing an intuitive API and by focusing on creativity rather than complexity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 803898449,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:01:28Z",
+                "owner": "kaplayjs",
+                "repo": "kaplay",
+                "stars": 1775
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BLACKSMITH 2D",
+              "description": "Black is a highly optimized 2D framework for web, mobile games, and playable ads.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85088784,
+                "language": "JavaScript",
+                "last_commit": "2023-08-08T13:13:15Z",
+                "owner": "MassiveHeights",
+                "repo": "Black",
+                "stars": 211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Craters.js",
+              "description": "A Compact Game Engine that helps you build fast, modern HTML5 Games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203122320,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T17:52:52Z",
+                "owner": "john-swana",
+                "repo": "craters",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2D"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "three.js",
+              "description": "JavaScript 3D library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576201,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T11:27:02Z",
+                "owner": "mrdoob",
+                "repo": "three.js",
+                "stars": 114609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Babylonjs",
+              "description": "A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11007313,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T18:05:53Z",
+                "owner": "BabylonJS",
+                "repo": "Babylon.js",
+                "stars": 25946
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PlayCanvas",
+              "description": "Fast and lightweight WebGL game engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19696006,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T10:44:50Z",
+                "owner": "playcanvas",
+                "repo": "engine",
+                "stars": 16524
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3D"
+        }
+      ],
       "title": "Game Engines"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PixiJS",
-          "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:36:39Z",
-            "owner": "pixijs",
-            "repo": "pixijs",
-            "stars": 48030
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Phaser",
-          "description": "Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-09T14:33:40Z",
-            "owner": "phaserjs",
-            "repo": "phaser",
-            "stars": 40167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GDevelop",
-          "description": "An open-source, cross-platform game engine designed to be used by everyone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T22:13:37Z",
-            "owner": "4ian",
-            "repo": "GDevelop",
-            "stars": 25757
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cocos2d-x",
-          "description": "A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-05-09T03:36:03Z",
-            "owner": "cocos2d",
-            "repo": "cocos2d-x",
-            "stars": 19148
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "melonJS",
-          "description": "A fresh & lightweight HTML5 game engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T23:54:43Z",
-            "owner": "melonjs",
-            "repo": "melonJS",
-            "stars": 6362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Impact",
-          "description": "A JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-07T13:23:50Z",
-            "owner": "phoboslab",
-            "repo": "Impact",
-            "stars": 2122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KAPLAY",
-          "description": "Fork of legacy Kaboom, that simplifies and accelerates game development by providing an intuitive API and by focusing on creativity rather than complexity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T02:42:01Z",
-            "owner": "kaplayjs",
-            "repo": "kaplay",
-            "stars": 1775
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BLACKSMITH 2D",
-          "description": "Black is a highly optimized 2D framework for web, mobile games, and playable ads.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-08T13:13:15Z",
-            "owner": "MassiveHeights",
-            "repo": "Black",
-            "stars": 211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Craters.js",
-          "description": "A Compact Game Engine that helps you build fast, modern HTML5 Games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T17:52:52Z",
-            "owner": "john-swana",
-            "repo": "craters",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "2D"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "three.js",
-          "description": "JavaScript 3D library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T20:18:18Z",
-            "owner": "mrdoob",
-            "repo": "three.js",
-            "stars": 114598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Babylonjs",
-          "description": "A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T18:05:53Z",
-            "owner": "BabylonJS",
-            "repo": "Babylon.js",
-            "stars": 25944
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PlayCanvas",
-          "description": "Fast and lightweight WebGL game engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-19T03:01:53Z",
-            "owner": "playcanvas",
-            "repo": "engine",
-            "stars": 16523
-          }
-        }
-      ],
-      "title": "3D"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -325,6 +348,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6584365,
             "language": "JavaScript",
             "last_commit": "2025-04-22T19:47:27Z",
             "owner": "MikeMcl",
@@ -339,6 +363,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42122684,
             "language": "JavaScript",
             "last_commit": "2026-06-19T15:10:21Z",
             "owner": "CindyJS",
@@ -350,7 +375,7 @@
       "title": "Math"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -359,6 +384,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3346266,
             "language": "JavaScript",
             "last_commit": "2022-11-14T20:13:23Z",
             "owner": "mourner",
@@ -373,6 +399,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5961186,
             "language": "JavaScript",
             "last_commit": "2024-01-23T23:07:02Z",
             "owner": "prettymuchbryce",
@@ -387,6 +414,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3745414,
             "language": "JavaScript",
             "last_commit": "2021-04-05T03:46:46Z",
             "owner": "jriecken",
@@ -401,6 +429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178907954,
             "language": "JavaScript",
             "last_commit": "2026-07-11T20:50:35Z",
             "owner": "KilledByAPixel",
@@ -415,6 +444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43715255,
             "language": "JavaScript",
             "last_commit": "2019-03-23T22:12:22Z",
             "owner": "kittykatattack",
@@ -429,6 +459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12413506,
             "language": "JavaScript",
             "last_commit": "2022-03-29T10:10:04Z",
             "owner": "allouis",
@@ -443,6 +474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26765973,
             "language": "JavaScript",
             "last_commit": "2024-04-25T20:23:17Z",
             "owner": "kittykatattack",
@@ -457,6 +489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217956758,
             "language": "TypeScript",
             "last_commit": "2026-03-22T21:19:09Z",
             "owner": "proyecto26",
@@ -471,6 +504,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189879524,
             "language": "TypeScript",
             "last_commit": "2026-03-22T20:47:21Z",
             "owner": "proyecto26",
@@ -485,6 +519,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146569507,
             "language": "JavaScript",
             "last_commit": "2019-02-12T19:37:48Z",
             "owner": "kutuluk",
@@ -496,7 +531,7 @@
       "title": "Micro-libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -505,11 +540,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8424040,
             "language": "JavaScript",
             "last_commit": "2026-08-16T23:20:58Z",
             "owner": "processing",
             "repo": "p5.js",
-            "stars": 23883
+            "stars": 23882
           }
         },
         {
@@ -519,6 +555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1338813,
             "language": "JavaScript",
             "last_commit": "2024-07-23T00:58:54Z",
             "owner": "paperjs",
@@ -530,7 +567,7 @@
       "title": "Graphics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -539,6 +576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16986405,
             "language": "JavaScript",
             "last_commit": "2024-08-17T14:14:36Z",
             "owner": "liabru",
@@ -553,6 +591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54445812,
             "language": "TypeScript",
             "last_commit": "2026-04-07T12:29:53Z",
             "owner": "piqnt",
@@ -567,6 +606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7957889,
             "language": "JavaScript",
             "last_commit": "2022-07-09T03:13:18Z",
             "owner": "schteppe",
@@ -581,6 +621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29737915,
             "language": "TypeScript",
             "last_commit": "2023-06-29T21:12:14Z",
             "owner": "flyover",
@@ -592,7 +633,7 @@
       "title": "Physics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -601,6 +642,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33454400,
             "language": "JavaScript",
             "last_commit": "2023-08-31T18:37:05Z",
             "owner": "mbitsnbites",
@@ -615,6 +657,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23720002,
             "language": "JavaScript",
             "last_commit": "2018-09-14T18:06:24Z",
             "owner": "kevincennis",
@@ -629,6 +672,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22948715,
             "language": "JavaScript",
             "last_commit": "2025-06-18T05:44:39Z",
             "owner": "nicolas-van",
@@ -640,7 +684,7 @@
       "title": "Audio Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -649,8 +693,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1418150,
             "language": "C++",
-            "last_commit": "2026-08-04T20:59:21Z",
+            "last_commit": "2026-08-19T10:44:07Z",
             "owner": "mapeditor",
             "repo": "tiled",
             "stars": 12828
@@ -663,18 +708,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5516383,
             "language": "JavaScript",
             "last_commit": "2026-06-28T16:40:18Z",
             "owner": "piskelapp",
             "repo": "piskel",
-            "stars": 12712
+            "stars": 12714
           }
         }
       ],
       "title": "Editors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -683,11 +729,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3678731,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T21:33:20Z",
+            "last_commit": "2026-08-19T11:14:09Z",
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65968
+            "stars": 65971
           }
         },
         {
@@ -697,11 +744,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11167738,
             "language": "JavaScript",
             "last_commit": "2026-02-09T06:30:13Z",
             "owner": "gulpjs",
             "repo": "gulp",
-            "stars": 32950
+            "stars": 32951
           }
         },
         {
@@ -711,11 +759,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35640229,
             "language": "JavaScript",
             "last_commit": "2026-08-16T13:44:20Z",
             "owner": "rollup",
             "repo": "rollup",
-            "stars": 26304
+            "stars": 26306
           }
         },
         {
@@ -725,11 +774,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5569059,
             "language": "JavaScript",
             "last_commit": "2024-11-22T08:11:38Z",
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13381
+            "stars": 13380
           }
         },
         {
@@ -739,6 +789,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2430537,
             "language": "JavaScript",
             "last_commit": "2026-08-14T02:35:09Z",
             "owner": "gruntjs",
@@ -753,6 +804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1276752,
             "language": "JavaScript",
             "last_commit": "2026-04-19T14:13:39Z",
             "owner": "brunch",
@@ -764,7 +816,7 @@
       "title": "Minification"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -773,11 +825,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9384267,
             "language": "C++",
-            "last_commit": "2026-08-19T02:50:50Z",
+            "last_commit": "2026-08-19T11:11:13Z",
             "owner": "electron",
             "repo": "electron",
-            "stars": 122564
+            "stars": 122573
           }
         },
         {
@@ -787,11 +840,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3100121,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T12:57:21Z",
+            "last_commit": "2026-08-19T04:08:07Z",
             "owner": "nwjs",
             "repo": "nw.js",
-            "stars": 41162
+            "stars": 41161
           }
         },
         {
@@ -801,11 +855,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111241370,
             "language": "TypeScript",
             "last_commit": "2026-08-18T21:39:40Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16344
+            "stars": 16346
           }
         },
         {
@@ -815,6 +870,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121366401,
             "language": null,
             "last_commit": "2026-05-19T03:45:48Z",
             "owner": "apache",
@@ -826,7 +882,7 @@
       "title": "Build"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -835,11 +891,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24560307,
             "language": "TypeScript",
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43984
+            "stars": 43987
           }
         },
         {
@@ -849,8 +906,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-18T18:13:51Z",
+            "last_commit": "2026-08-19T11:01:55Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
             "stars": 27571
@@ -860,7 +918,7 @@
       "title": "Compilers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -869,6 +927,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63595433,
             "language": "JavaScript",
             "last_commit": "2022-08-02T13:24:39Z",
             "owner": "js13kGames",
@@ -883,24 +942,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 194737103,
             "language": "JavaScript",
             "last_commit": "2026-04-15T03:15:50Z",
             "owner": "mguinea",
             "repo": "js13k-aframe-boilerplate",
             "stars": 13
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Phaser 3 TypeScript Project Template",
-          "description": "A quick-start project template that uses Phaser 3, TypeScript and Rollup for bundling.",
-          "children": []
         }
       ],
       "title": "Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -909,6 +963,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64703984,
             "language": "JavaScript",
             "last_commit": "2017-08-10T17:45:53Z",
             "owner": "marpi",
@@ -923,6 +978,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55869979,
             "language": "HTML",
             "last_commit": "2017-08-10T17:43:48Z",
             "owner": "marpi",
@@ -937,6 +993,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107885420,
             "language": null,
             "last_commit": "2024-10-27T16:28:30Z",
             "owner": "proyecto26",
@@ -948,7 +1005,7 @@
       "title": "Workshops"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -957,6 +1014,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3112748,
             "language": null,
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
@@ -971,11 +1029,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21958186,
             "language": "Markdown",
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17149
+            "stars": 17150
           }
         },
         {
@@ -985,6 +1044,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1837812,
             "language": null,
             "last_commit": "2020-06-08T16:09:17Z",
             "owner": "DaRaFF",
@@ -999,6 +1059,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71360000,
             "language": null,
             "last_commit": "2025-04-14T20:40:19Z",
             "owner": "Raiper34",
@@ -1013,6 +1074,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211407533,
             "language": null,
             "last_commit": "2026-08-04T16:23:41Z",
             "owner": "playcanvas",
@@ -1022,36 +1084,12 @@
         }
       ],
       "title": "Other Awesome Lists"
-    },
-    {
-      "description": "Please do contribute! Issues and pull requests are welcome. This awesome list exists thanks to all the people who contribute. [Contribute].\n",
-      "items": [],
-      "title": "Contributors ✨"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History 🌟"
-    },
-    {
-      "description": "This project is free and open source. Sponsors help keep it maintained and growing.\nBecome a Sponsor | Sponsorship Program",
-      "items": [],
-      "title": "Sponsors 💜"
-    },
-    {
-      "description": "When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.\nContributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated ❤️.\nYou can learn more about how you can contribute to this project in the contribution guide.",
-      "items": [],
-      "title": "Contribution 🤝"
-    },
-    {
-      "description": "Made with ❤️ by Proyecto 26 - Changing the world with small contributions.\nOne hand can accomplish great things, but many can take you into space and beyond! 🌌\nTogether we do more, together we are more ❤️",
-      "items": [],
-      "title": "Happy coding 💯"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:31:01.834Z",
+    "last_updated": "2026-08-19T12:35:44.933Z",
     "original_repository": "proyecto26/awesome-jsgames",
+    "original_repository_id": 271156716,
     "original_repository_sha": "17dfbb7935be6e0c958e07dfb96018a3be1bd6bc",
     "enhanced_repository": "enhansome/enhansome-jsgames",
     "enhanced_repository_description": null,
