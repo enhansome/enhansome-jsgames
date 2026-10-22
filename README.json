@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "mumuy",
             "repo": "pacman",
-            "stars": 1645,
+            "stars": 1646,
             "topics": [
               "canvas",
               "html5",
@@ -51,9 +51,158 @@
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:06.661Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Neon Snake Rush",
+          "description": "A high-octane hybrid-casual snake game wrapped in a native Android WebView.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A high-octane, visually stunning Hybrid-Casual Mobile Snake Game built with a custom HTML5 engine and wrapped in a native Android WebView.",
+            "homepage": null,
+            "id": 1306782766,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-08-22T13:57:45Z",
+            "open_issues": 0,
+            "owner": "zfryrgnci",
+            "repo": "NeonSnakeAPK-Mobile-Game-",
+            "stars": 1,
+            "topics": [
+              "android-studio",
+              "android-webview",
+              "cyberpunk-aesthetic",
+              "html5-canvas",
+              "hybrid-casual",
+              "javascript-game",
+              "mobile-game",
+              "snake-game",
+              "snake-game-2d"
+            ]
+          },
+          "first_seen": "2026-10-22T07:58:50.756Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Ascent",
+          "description": "Gravity-defying procedural vertical platformer with fluid HTML5 physics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A gravity-defying, procedural vertical platformer mobile game. Features unlockable abilities, fluid physics, and hybrid-casual monetization mechanics.",
+            "homepage": null,
+            "id": 1306783073,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-08-22T13:58:10Z",
+            "open_issues": 0,
+            "owner": "zfryrgnci",
+            "repo": "QuantumAscentAPK-Mobile-Game-",
+            "stars": 1,
+            "topics": [
+              "android-webview",
+              "html5-canvas",
+              "hybrid-casual",
+              "javascript-game",
+              "mobile-game",
+              "physics-engine",
+              "procedural-generation",
+              "vertical-platformer"
+            ]
+          },
+          "first_seen": "2026-10-22T07:58:50.756Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Glitch Duel",
+          "description": "May the glitch be with you. Arcade web fighting game built with HTML, CSS, JavaScript, and Canvas, where players battle the CPU in best-of-3 rounds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Glitch Duel",
+            "homepage": "https://dersteppenwolf.github.io/glitch_duel/",
+            "id": 1270319759,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-10-03T12:18:05Z",
+            "open_issues": 0,
+            "owner": "dersteppenwolf",
+            "repo": "glitch_duel",
+            "stars": 1,
+            "topics": [
+              "games"
+            ]
+          },
+          "first_seen": "2026-10-22T07:58:50.756Z"
         }
       ],
       "title": "Arcade"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pixel Art Academy",
+          "description": "An adventure game for learning to draw.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An adventure game for learning to draw.",
+            "homepage": null,
+            "id": 42780465,
+            "language": "CoffeeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-20T13:44:43Z",
+            "open_issues": 10,
+            "owner": "Retronator",
+            "repo": "Pixel-Art-Academy",
+            "stars": 228,
+            "topics": []
+          },
+          "first_seen": "2026-10-22T07:58:50.756Z"
+        }
+      ],
+      "title": "Educational"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bash Fighter",
+          "description": "Open source (AGPL-3.0) 20-player free-for-all platform fighter that runs in the browser, no download or account required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source 20-player free-for-all platform fighter, playable in the browser. Deterministic fixed-point simulation, server-authoritative netcode, AGPL-3.0.",
+            "homepage": "https://bashfighter.com",
+            "id": 1360600160,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-21T16:07:39Z",
+            "open_issues": 9,
+            "owner": "Bash-Entertainment",
+            "repo": "bash-fighter",
+            "stars": 4,
+            "topics": [
+              "agpl-3-0",
+              "browser-game",
+              "game-development",
+              "html5-games",
+              "multiplayer",
+              "open-source",
+              "pixijs",
+              "platform-fighter",
+              "typescript",
+              "websocket"
+            ]
+          },
+          "first_seen": "2026-10-22T07:58:50.756Z"
+        }
+      ],
+      "title": "Platform"
     },
     {
       "description": null,
@@ -130,6 +279,27 @@
             ]
           },
           "first_seen": "2026-08-28T14:36:06.661Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Block Blast Training Platform",
+          "description": "8×8 block puzzle with guaranteed solvable piece generation using 4 algorithms and geometric OCR for screenshot recognition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1141152094,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-02-06T11:31:13Z",
+            "open_issues": 0,
+            "owner": "dffge552",
+            "repo": "block-blast",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-10-22T07:58:50.756Z"
         }
       ],
       "title": "Puzzle"
@@ -324,11 +494,11 @@
                 "id": 7741856,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T16:26:51Z",
-                "open_issues": 402,
+                "last_commit": "2026-10-21T22:40:01Z",
+                "open_issues": 408,
                 "owner": "pixijs",
                 "repo": "pixijs",
-                "stars": 48439,
+                "stars": 48446,
                 "topics": [
                   "canvas",
                   "canvas2d",
@@ -363,7 +533,7 @@
                 "open_issues": 176,
                 "owner": "phaserjs",
                 "repo": "phaser",
-                "stars": 40524,
+                "stars": 40535,
                 "topics": [
                   "canvas",
                   "discord-activities",
@@ -394,11 +564,11 @@
                 "id": 21331090,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T07:55:44Z",
-                "open_issues": 636,
+                "last_commit": "2026-10-21T15:53:20Z",
+                "open_issues": 638,
                 "owner": "4ian",
                 "repo": "GDevelop",
-                "stars": 27787,
+                "stars": 27832,
                 "topics": [
                   "2d-game",
                   "2d-game-engine",
@@ -439,7 +609,7 @@
                 "open_issues": 1604,
                 "owner": "cocos2d",
                 "repo": "cocos2d-x",
-                "stars": 19233,
+                "stars": 19236,
                 "topics": [
                   "android",
                   "c-plus-plus",
@@ -469,11 +639,11 @@
                 "id": 1597789,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T06:42:06Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-22T05:30:17Z",
+                "open_issues": 17,
                 "owner": "melonjs",
                 "repo": "melonJS",
-                "stars": 6415,
+                "stars": 6417,
                 "topics": [
                   "2d-game-engine",
                   "canvas2d",
@@ -513,7 +683,7 @@
                 "open_issues": 31,
                 "owner": "phoboslab",
                 "repo": "Impact",
-                "stars": 2133,
+                "stars": 2132,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:06.661Z"
@@ -534,7 +704,7 @@
                 "open_issues": 70,
                 "owner": "kaplayjs",
                 "repo": "kaplay",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "game-dev",
                   "game-development",
@@ -628,11 +798,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T07:58:54Z",
-                "open_issues": 395,
+                "last_commit": "2026-10-22T06:30:54Z",
+                "open_issues": 400,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116697,
+                "stars": 116752,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -662,11 +832,11 @@
                 "id": 11007313,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T02:13:05Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-22T07:01:35Z",
+                "open_issues": 22,
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 26204,
+                "stars": 26206,
                 "topics": [
                   "3d",
                   "babylon",
@@ -696,11 +866,11 @@
                 "id": 19696006,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T02:23:19Z",
-                "open_issues": 465,
+                "last_commit": "2026-10-22T02:23:02Z",
+                "open_issues": 467,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 17097,
+                "stars": 17105,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -858,7 +1028,7 @@
             "open_issues": 7,
             "owner": "KilledByAPixel",
             "repo": "ZzFX",
-            "stars": 805,
+            "stars": 806,
             "topics": [
               "codegolf",
               "game-development",
@@ -1092,10 +1262,10 @@
             "language": "JavaScript",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-21T07:12:37Z",
-            "open_issues": 541,
+            "open_issues": 545,
             "owner": "processing",
             "repo": "p5.js",
-            "stars": 24153,
+            "stars": 24157,
             "topics": [
               "art",
               "creative-coding",
@@ -1124,11 +1294,11 @@
             "id": 1338813,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T01:55:25Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-22T00:23:37Z",
+            "open_issues": 28,
             "owner": "paperjs",
             "repo": "paper.js",
-            "stars": 15091,
+            "stars": 15096,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:06.661Z"
@@ -1155,7 +1325,7 @@
             "open_issues": 279,
             "owner": "liabru",
             "repo": "matter-js",
-            "stars": 18485,
+            "stars": 18487,
             "topics": [
               "canvas",
               "javascript",
@@ -1183,7 +1353,7 @@
             "open_issues": 32,
             "owner": "piqnt",
             "repo": "planck.js",
-            "stars": 5299,
+            "stars": 5298,
             "topics": [
               "2d",
               "box2d",
@@ -1340,11 +1510,11 @@
             "id": 1418150,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T06:00:35Z",
-            "open_issues": 842,
+            "last_commit": "2026-10-22T06:43:41Z",
+            "open_issues": 843,
             "owner": "mapeditor",
             "repo": "tiled",
-            "stars": 12978,
+            "stars": 12981,
             "topics": [
               "c-plus-plus",
               "editor",
@@ -1376,8 +1546,8 @@
             "id": 5516383,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T23:42:18Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-21T21:20:02Z",
+            "open_issues": 99,
             "owner": "piskelapp",
             "repo": "piskel",
             "stars": 12858,
@@ -1409,11 +1579,11 @@
             "id": 3678731,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T07:50:32Z",
-            "open_issues": 115,
+            "last_commit": "2026-10-22T01:41:27Z",
+            "open_issues": 120,
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65972,
+            "stars": 65968,
             "topics": [
               "amd",
               "build-tool",
@@ -1451,7 +1621,7 @@
             "open_issues": 31,
             "owner": "gulpjs",
             "repo": "gulp",
-            "stars": 32921,
+            "stars": 32919,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:06.661Z"
@@ -1468,11 +1638,11 @@
             "id": 35640229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T07:14:35Z",
-            "open_issues": 602,
+            "last_commit": "2026-10-22T04:57:59Z",
+            "open_issues": 597,
             "owner": "rollup",
             "repo": "rollup",
-            "stars": 26304,
+            "stars": 26303,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:06.661Z"
@@ -1514,7 +1684,7 @@
             "open_issues": 158,
             "owner": "gruntjs",
             "repo": "grunt",
-            "stars": 12233,
+            "stars": 12232,
             "topics": [
               "hacktoberfest"
             ]
@@ -1537,7 +1707,7 @@
             "open_issues": 0,
             "owner": "brunch",
             "repo": "brunch",
-            "stars": 6757,
+            "stars": 6756,
             "topics": [
               "brunch",
               "build-automation",
@@ -1566,11 +1736,11 @@
             "id": 9384267,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-21T07:18:19Z",
-            "open_issues": 751,
+            "last_commit": "2026-10-22T05:05:50Z",
+            "open_issues": 744,
             "owner": "electron",
             "repo": "electron",
-            "stars": 123443,
+            "stars": 123460,
             "topics": [
               "c-plus-plus",
               "chrome",
@@ -1597,11 +1767,11 @@
             "id": 3100121,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T22:44:05Z",
-            "open_issues": 913,
+            "last_commit": "2026-10-21T23:26:58Z",
+            "open_issues": 912,
             "owner": "nwjs",
             "repo": "nw.js",
-            "stars": 41143,
+            "stars": 41141,
             "topics": [
               "desktop",
               "javascript",
@@ -1625,11 +1795,11 @@
             "id": 111241370,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T11:50:15Z",
-            "open_issues": 149,
+            "last_commit": "2026-10-21T22:59:08Z",
+            "open_issues": 151,
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16916,
+            "stars": 16925,
             "topics": [
               "android",
               "capacitor",
@@ -1691,11 +1861,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T03:13:02Z",
-            "open_issues": 810,
+            "last_commit": "2026-10-22T00:34:48Z",
+            "open_issues": 815,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44051,
+            "stars": 44042,
             "topics": [
               "ast",
               "babel",
@@ -1720,11 +1890,11 @@
             "id": 1357796,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T23:48:27Z",
-            "open_issues": 2528,
+            "last_commit": "2026-10-22T03:07:18Z",
+            "open_issues": 2526,
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27733,
+            "stars": 27736,
             "topics": [
               "emscripten",
               "hacktoberfest",
@@ -1840,7 +2010,7 @@
             "open_issues": 1,
             "owner": "marpi",
             "repo": "vr",
-            "stars": 26,
+            "stars": 25,
             "topics": [
               "threejs",
               "virtual-reality",
@@ -1944,7 +2114,7 @@
             "open_issues": 23,
             "owner": "mrdoob",
             "repo": "stats.js",
-            "stars": 9150,
+            "stars": 9151,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:06.661Z"
@@ -1971,7 +2141,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24979,
+            "stars": 24977,
             "topics": [
               "game",
               "game-development",
@@ -1995,11 +2165,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-20T21:36:48Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-21T16:46:15Z",
+            "open_issues": 45,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17540,
+            "stars": 17548,
             "topics": [
               "art",
               "awesome",
@@ -2088,13 +2258,53 @@
             ]
           },
           "first_seen": "2026-08-28T14:36:06.661Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI-Built Games",
+          "description": "Playable games whose code was mostly written by AI coding agents, most of them browser games made with JavaScript and Three.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of vibe-coded games: playable games built with AI coding agents like Claude Code, Cursor, Codex, Gemini and Grok, with Three.js, Phaser, Godot and more.",
+            "homepage": null,
+            "id": 941884798,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-10-21T18:53:47Z",
+            "open_issues": 6,
+            "owner": "lappemic",
+            "repo": "awesome-ai-built-games",
+            "stars": 96,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "ai-game-development",
+              "ai-games",
+              "awesome",
+              "awesome-list",
+              "browser-games",
+              "claude-code",
+              "codex",
+              "cursor",
+              "game-development",
+              "gemini",
+              "generative-ai",
+              "html5-games",
+              "indie-games",
+              "llm",
+              "threejs",
+              "vibe-coding"
+            ]
+          },
+          "first_seen": "2026-10-22T07:58:50.756Z"
         }
       ],
       "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:00:35.196Z",
+    "last_updated": "2026-10-22T07:58:50.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaScript Games  🎮",
@@ -2102,8 +2312,8 @@
       "id": 271156716,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-03-22T21:09:20Z",
-      "open_issues": 31,
+      "last_commit": "2026-10-22T04:34:23Z",
+      "open_issues": 11,
       "owner": "proyecto26",
       "repo": "awesome-jsgames",
       "stars": 984,
@@ -2129,7 +2339,7 @@
         "web-monetization"
       ]
     },
-    "original_repository_sha": "17dfbb7935be6e0c958e07dfb96018a3be1bd6bc",
+    "original_repository_sha": "b874ea735cc92bbe9cd60300639ff7df3c92ea8c",
     "enhanced_repository": "enhansome/enhansome-jsgames",
     "enhanced_repository_description": null,
     "title": "Awesome jsgames with stars"
